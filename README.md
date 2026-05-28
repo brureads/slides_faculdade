@@ -31,23 +31,7 @@
   Um cantinho acadêmico para deixar os estudos mais organizados e menos caóticos. 💻📖✨
 </blockquote>
 
-<hr>
-
-<h2>📁 Estrutura das pastas</h2>
-
-<pre>
-slides_faculdade/
-│
-├── Banco de Dados II/
-├── Business Intelligence/
-├── Cálculo 1/
-├── Desenvolvimento de Interface/
-├── Engenharia Eletrônica II/
-├── Programação Orientada a Objetos/
-├── Redes de Computadores/
-├── Segurança Cibernética/
-└── README.md
-</pre>
+<hr
 
 <hr>
 
@@ -120,21 +104,6 @@ slides_faculdade/
 </div>
 
 <hr>
-
-<h2>🛠️ Como acessar</h2>
-
-<p>
-  Você pode navegar pelas pastas diretamente aqui no GitHub e abrir os arquivos PDF de cada disciplina.
-</p>
-
-<p>
-  Também é possível clonar o repositório usando o comando abaixo:
-</p>
-
-<pre>
-git clone https://github.com/brureads/slides_faculdade.git
-</pre>
-
 <hr>
 
 <h2>🧠 Tecnologias e ferramentas relacionadas</h2>
